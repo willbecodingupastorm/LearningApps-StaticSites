@@ -1,0 +1,23 @@
+project-root/
+├── src/
+│   ├── content/
+│   │   ├── pages/
+│   │   │   ├── about.md
+│   │   │   └── faq.md
+│   │   └── blog/
+│   │       └── posts/
+│   ├── templates/
+│   │   ├── base.html
+│   │   ├── page.html
+│   │   ├── blog-post.html
+│   │   └── blog-list.html
+│   ├── static/
+│   │   ├── css/
+│   │   │   └── style.css
+│   │   └── js/
+│   │       └── main.js
+│   └── scripts/
+│       └── build.js
+├── public/
+├── package.json
+└── README.md 
